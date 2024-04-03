@@ -14,16 +14,17 @@ py manage.py runserver
 - Now enter following URL in Your Browser Installed On Your Pc
 ```
 http://127.0.0.1:8000/
-
-### Login Page
+```
+- Outputs
+## Login Page
 ![login snap](https://raw.githubusercontent.com/khushikonge/placement-ready-quiz/main/login%20page.jpeg)
 
-### Sign Up Page
+## Sign Up Page
 ![sign up snap](https://raw.githubusercontent.com/khushikonge/placement-ready-quiz/main/signup%20page.jpeg)
 
-### Home Page
+## Home Page
 ![home snap](https://raw.githubusercontent.com/khushikonge/placement-ready-quiz/main/homepage.jpeg)
 
-### MCQ Page
+## MCQ Page
 ![mcq snap](https://raw.githubusercontent.com/khushikonge/placement-ready-quiz/main/mcq.jpeg)
 
