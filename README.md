@@ -15,15 +15,15 @@ py manage.py runserver
 ```
 http://127.0.0.1:8000/
 
-###Login Page
-![login snap](https://github.com/khushikonge/placement-ready-quiz/blob/main/login%20page.jpeg)
+### Login Page
+![login snap](https://raw.githubusercontent.com/khushikonge/placement-ready-quiz/main/login%20page.jpeg)
 
-###Sign Up Page
-![sign up snap](https://github.com/khushikonge/placement-ready-quiz/blob/main/signup%20page.jpeg)
+### Sign Up Page
+![sign up snap](https://raw.githubusercontent.com/khushikonge/placement-ready-quiz/main/signup%20page.jpeg)
 
-###Home Page
-![home snap](https://github.com/khushikonge/placement-ready-quiz/blob/main/homepage.jpeg)
+### Home Page
+![home snap](https://raw.githubusercontent.com/khushikonge/placement-ready-quiz/main/homepage.jpeg)
 
-###MCQ Page
-![mcq snap](https://github.com/khushikonge/placement-ready-quiz/blob/main/mcq.jpeg)
+### MCQ Page
+![mcq snap](https://raw.githubusercontent.com/khushikonge/placement-ready-quiz/main/mcq.jpeg)
 
