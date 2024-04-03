@@ -22,7 +22,7 @@ http://127.0.0.1:8000/
 ![sign up snap](https://github.com/khushikonge/placement-ready-quiz/blob/main/signup%20page.jpeg)
 
 ###Home Page
-![home snap]((https://github.com/khushikonge/placement-ready-quiz/blob/main/homepage.jpeg))
+![home snap](https://github.com/khushikonge/placement-ready-quiz/blob/main/homepage.jpeg)
 
 ###MCQ Page
 ![mcq snap](https://github.com/khushikonge/placement-ready-quiz/blob/main/mcq.jpeg)
